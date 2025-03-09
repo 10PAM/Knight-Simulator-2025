@@ -1,0 +1,1 @@
+I made this project as part of my CS50 week 0 course and I enjoyed making it and found it relatively easy thanks to previous knowledge on game development. It came out nowhere near how I envisioned it originally, but I found that if it works it works.
